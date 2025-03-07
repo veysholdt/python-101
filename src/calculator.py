@@ -1,5 +1,4 @@
 from typing import Iterable
-from typing import TypeVar
 
 def add(a, b):
     return a + b
